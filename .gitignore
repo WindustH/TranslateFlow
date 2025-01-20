@@ -1,0 +1,6 @@
+output
+models
+log
+__pycache__
+whisperX
+config.py
